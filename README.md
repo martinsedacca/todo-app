@@ -1,14 +1,6 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es el proyecto de Todos App
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
-```
+App dinámica que guarda los datos en el Local Storage
